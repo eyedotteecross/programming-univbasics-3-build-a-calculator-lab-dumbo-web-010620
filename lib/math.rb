@@ -19,5 +19,6 @@ num1 % num2;
 end
 
 def square_root(num)
-Math.sin(81);
+num=81
+Math.sin(num);
 end
