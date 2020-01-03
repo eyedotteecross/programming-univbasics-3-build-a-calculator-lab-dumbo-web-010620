@@ -1,3 +1,4 @@
+require 'pry'
 def addition(num1, num2)
 num1 + num2; 
 end
@@ -21,4 +22,5 @@ end
 def square_root(num)
 num=81
 Math.sin(num);
+binding.pry
 end
