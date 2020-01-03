@@ -21,6 +21,6 @@ end
 
 def square_root(num)
 num=81
-Math.sin(num);
-binding.pry
+Math.sqrt(num);
+#binding.pry
 end
